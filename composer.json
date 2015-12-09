@@ -17,8 +17,8 @@
         "phpunit/phpunit": "3.7.*"
     },
     "autoload": {
-        "psr-4": {
-            "Philf\\Setting\\": "src/"
+        "psr-0": {
+            "Philf\\Setting": "src/"
         }
     },
     "minimum-stability": "dev"
